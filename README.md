@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @josanri
+- :book: I'm studying Software Engineering.
