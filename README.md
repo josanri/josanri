@@ -1,2 +1,3 @@
 - 👋 Hi, I’m @josanri
 - :book: I'm studying Software Engineering.
+- 💻 I'm also learning and improving my programming skills at 42 Málaga.
