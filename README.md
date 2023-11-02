@@ -1,6 +1,6 @@
 👋 Hi, I’m @josanri a Software Engineering student at the University of Málaga.
 
-💻 I'm also learning and improving my programming skills at 42 Málaga; some of my projects are located on [josesanc02](https://github.com/josesanc02/)
+💻 I'm also learning and improving my programming skills at 42 Málaga.
 
 ## Projects
 Primarily engaged in activities related to [Hackers Week](https://hackersweek.es/), while also pushing personal and university projects:
