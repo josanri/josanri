@@ -1,4 +1,4 @@
-👋 Hi, I’m @josanri a Software Engineering student at the University of Málaga.
+👋 Hi, I’m @josanri a Software Engineer from the University of Málaga.
 
 💻 I'm also learning and improving my programming skills at 42 Málaga.
 
